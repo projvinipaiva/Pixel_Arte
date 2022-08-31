@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg10622"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="quadrado vermerlho.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10624"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74564394"
+     inkscape:cx="398.31344"
+     inkscape:cy="561.9304"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10619" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path11155"
+       style="fill:#103683;stroke:#35839d;stroke-width:0.264583"
+       cx="46.838707"
+       cy="94.032257"
+       r="0.047264166" />
+    <circle
+       id="path11157"
+       style="fill:#103683;stroke:#35839d;stroke-width:0.264583"
+       cx="157.19356"
+       cy="94.032257"
+       r="0.047264166" />
+    <circle
+       id="path11159"
+       style="fill:#103683;stroke:#35839d;stroke-width:0.264583"
+       cx="59.967743"
+       cy="177.77419"
+       r="0.047264166" />
+    <circle
+       id="path11161"
+       style="fill:#103683;stroke:#35839d;stroke-width:0.264583"
+       cx="60.677422"
+       cy="101.48387"
+       r="0.047264166" />
+    <path
+       style="fill:#831037;fill-opacity:1;stroke:#35679d;stroke-width:1.96105;stroke-dasharray:none;stroke-opacity:1"
+       d="M 59.966344,89.420744 60.676045,176.3574 H 148.67882 L 148.32396,89.774148"
+       id="path11226" />
+    <path
+       style="fill:#d01add;stroke:#35679d;stroke-width:1.961;stroke-opacity:1"
+       d="m 59.258064,89.774193 89.419356,0.354838"
+       id="path23692" />
+  </g>
+</svg>
